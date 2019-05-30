@@ -1,9 +1,9 @@
 {
-    "HOT_UPDATE_URL": ["http://Up9W76voQEWY.ua800.com/", "http://UpLetezRvGAo.ua800.com/",  "http://UpFk8nOJ73Mc.ua800.com/"],
-    "GATE_SERVER_LIST": ["G2I0CWkv7x9s.ua800.com", "G2HRc3XzIQBs.ua800.com", "G2Y1uoFVtUrk.ua800.com", "G2bSATZo2bcf.ua800.com"],
-  "WEB_HTTP_URL_TEST": ["http://H2Dxh3ozmU2O.ua800.com", "http://H29Zt8zSGoee.ua800.com", "http://H24WJtc3ke4X.ua800.com", "http://H2FEfuPCNGdN.ua800.com"],
-  "PAY_SERVER":  ["http://H2Dxh3ozmU2O.ua800.com", "http://H29Zt8zSGoee.ua800.com", "http://H24WJtc3ke4X.ua800.com", "http://H2FEfuPCNGdN.ua800.com"],
-  "httpmd5": "lz-123321.",
-  "QRcode": "https://app-g6m1gr.openinstall.io/js-test",
-  "VERSION_APK":"1"
+    "HOT_UPDATE_URL": ["https://ttqipai.oss-cn-hongkong.aliyuncs.com/update/"],
+    "GATE_SERVER_LIST": ["G001wkv7x9s.ua800.com", "G0013xziqbs.ua800.com", "G001ofvturk.ua800.com", "G001tzo2bcf.ua800.com"],
+    "WEB_HTTP_URL_TEST": ["http://T001dozmu2o.ua800.com", "http://T001bzsgoee.ua800.com", "http://T001tc3ke4x.ua800.com", "http://T001upcngdn.ua800.com"],
+    "PAY_SERVER":  ["http://T001dozmu2o.ua800.com", "http://T001bzsgoee.ua800.com", "http://T001tc3ke4x.ua800.com", "http://T001upcngdn.ua800.com"],
+    "httpmd5": "lz-123321.",
+    "QRcode": "https://app-g6m1gr.openinstall.io/js-test",
+    "VERSION_APK":"1"
 }
